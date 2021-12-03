@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+
+bin
+obj
+packages
+src/UpgradeLog.htm
+*.DotSettings.user
+__pycache__
+src/.vs
